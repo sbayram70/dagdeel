@@ -1,0 +1,51 @@
+body{
+
+}
+p{
+	
+	font-family: "airstrikeacad";
+	margin-top: 260px;
+	color: white;
+	font-size: 70px;
+	text-align: center;
+}
+
+.morning{
+background-image: url(../images/morning.png);
+background-size: cover;
+display: block;
+
+}
+.afternoon{
+	background-image: url(../images/afternoon.png);
+	background-size: cover;
+	display: block;
+
+}
+.evening{
+	background-image: url(../images/evening.png);
+	background-size: cover;
+	display: block;
+	
+}
+.night{
+	background-image: url(../images/night.png);
+	background-size: cover;
+	display: block;
+	
+}
+p.date{
+	margin: 20px;
+}
+.day{
+	
+}
+.tijd{
+margin-top: 30px;
+}
+@font-face {
+	font-family: "airstrikeacad";
+	font-style: normal;
+	font-weight: normal;
+	src: url("../font/airstrikeacad.ttf");
+}
